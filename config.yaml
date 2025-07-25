@@ -1,0 +1,3 @@
+webhook_url: ${WEBHOOK_URL}
+activation_phrase: ${ACTIVATION_PHRASE}
+assistant_name: ${ASSISTANT_NAME}

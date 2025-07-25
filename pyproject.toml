@@ -1,0 +1,21 @@
+[project]
+name = "talk2n8n"
+version = "0.1.0"
+description = "A Python package for integrating speech recognition with n8n workflows"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fire>=0.7.0",
+    "ipdb>=0.13.13",
+    "notebook>=7.4.4",
+    "numpy>=1.19.0,<2.0.0",
+    "openai-whisper>=20250625",
+    "pre-commit>=4.2.0",
+    "pyaudio>=0.2.14",
+    "python-dotenv>=1.1.1",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.4",
+    "sounddevice>=0.5.2",
+    "speechrecognition>=3.14.3",
+    "tts>=0.22.0",
+]
