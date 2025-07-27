@@ -1,7 +1,3 @@
-Danke für den Hinweis. Hier ist die überarbeitete Fassung der README, die klarstellt, dass je nach Umgebung eine entsprechende `.env.[env]`-Datei erforderlich ist:
-
----
-
 # Voice-Controlled n8n Integration
 
 ## Overview
